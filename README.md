@@ -48,7 +48,8 @@ Crie o executável `.pyz` utilizando o **zipaap**
  ```bash
 python3 -m zipapp reverseshell.py -o reverseshell.pyz
 ```
-https://github.com/user-attachments/assets/ba604063-a715-43c1-8fd2-e754ff4945f3" />
+<img width="800" height="130" alt="1_r1fVBGGCxVWXv3JPh8tgPA" src="https://github.com/user-attachments/assets/1fe969e5-1994-4116-831b-0966ce3f45a2" />
+
 
 ### Fase 3: Recebendo a conexão via Netcat
 Inicie uma conexão utilizando **Netcat** utilizando a porta 4444 que foi usada no script
